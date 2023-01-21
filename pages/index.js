@@ -42,11 +42,11 @@ const Home = () => {
 				<div className="header">
 					<div className="header-title">
 						{/* Change your headline here */}
-						<h1>magic blog post generator</h1>
+						<h1>story starter generator</h1>
 					</div>
 					<div className="header-subtitle">
 						<h2>
-							input the title to your blog post below, we'll generate the rest.
+							input something you want to write a story about, we'll generate the rest.
 						</h2>
 					</div>
 				</div>
@@ -96,7 +96,7 @@ const Home = () => {
 				>
 					<div className="badge">
 						<Image src={buildspaceLogo} alt="buildspace logo" />
-						<p>build with buildspace</p>
+						<p>built with buildspace</p>
 					</div>
 				</a>
 			</div>
