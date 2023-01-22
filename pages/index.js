@@ -41,7 +41,6 @@ const Home = () => {
 			<div className="container">
 				<div className="header">
 					<div className="header-title">
-						{/* Change your headline here */}
 						<h1>story starter generator</h1>
 					</div>
 					<div className="header-subtitle">
